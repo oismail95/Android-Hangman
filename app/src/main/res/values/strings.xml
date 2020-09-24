@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="hangman">Hangman</string>
+    <string name="display_message">Press the start button whenever your ready.</string>
+    <string name="start">Start</string>
+    <string name="round">Round</string>
+    <string name="init">0</string>
+    <string name="display_text">Display Text</string>
+    <string name="submit_letter">Submit Letter</string>
+    <string name="letters_used">Letters Used:</string>
+</resources>
+
